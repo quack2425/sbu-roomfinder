@@ -1,0 +1,15 @@
+.room-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 1rem;
+  padding: 1.5rem;
+}
+
+.review-container {
+}
+
+#main {
+  min-height: 100vh;
+  min-width: 100vw;
+}
